@@ -2,7 +2,8 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<mate>
+		<mate/>
+		<script>
 	</head>
 	<body>
 	
